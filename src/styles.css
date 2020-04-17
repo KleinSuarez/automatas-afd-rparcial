@@ -1,0 +1,6 @@
+/* Add application styles & imports to this file! */
+@import "~bootswatch/dist/minty/bootstrap.css";
+
+.pull-right{
+  float: right;
+}
